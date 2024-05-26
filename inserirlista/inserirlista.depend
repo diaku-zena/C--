@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612101682 source:c:\users\leotina\documents\c++\inserirlista\main.cpp
+	<iostream>
+	<list>
+

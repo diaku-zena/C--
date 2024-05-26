@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594747697 source:c:\users\leotina manuel\documents\c++\votos\cubo\main.cpp
+	<iostream>
+
+1605471309 source:c:\users\leotina\documents\c++\exercício1\cubo\main.cpp
+	<iostream>
+	<math.h>
+
